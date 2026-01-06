@@ -20,4 +20,4 @@ I am a **Computer Science student at UCF** and a **Full-Stack Developer** with a
 
 ### 📫 Let's Connect!
 - 📧 [cristofferbohorquez@gmail.com](mailto:cristofferbohorquez@gmail.com)
-- 💼 [LinkedIn Profile Link] (https://www.linkedin.com/in/cristoffer-bohorquez/)
+- 💼 (https://www.linkedin.com/in/cristoffer-bohorquez/)
